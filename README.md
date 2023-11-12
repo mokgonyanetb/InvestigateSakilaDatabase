@@ -14,6 +14,7 @@ Here are the questions
 4. Who are the Top 10 customers who have spent the most on rentals and from which countries are these customers from?
 
 _The queries and visualisations we have used in answering these questions are attach to this repo_
+
 _The Sakila database's ERD diagram is attached to this repo_
 
 ## Project Rubric
